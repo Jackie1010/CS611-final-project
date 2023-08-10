@@ -1,0 +1,11 @@
+**.xml
+**.iml
+**/out
+**.idea/
+**.class
+**.DS_Store
+
+/FrontendSourceCode/build/
+/NetBeansProject/build/
+/NetBeansProject 2/NetBeansProject/nbproject/private/
+/NetBeansProject 2/nbproject/private/
