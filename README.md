@@ -1,5 +1,8 @@
 # 611-final-project
 
+#Demo (Chinese subtitles)
+https://youtu.be/R5rdSbJoV8I
+
 # Team Members
 
 | Student Name | Student Email |
