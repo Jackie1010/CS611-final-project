@@ -2,11 +2,11 @@
 
 # Team Members
 
-| Student Name | Student Email | Student BUID |
-|---------|--------------|-----------|
-| Zeqi Wang | zw100107@bu.edu | U91298632 |
-| Vineet Raju | vineetr@bu.edu | U99140386 |
-| Zhou Ye | yezhou@bu.edu | U22674694 |
+| Student Name | Student Email |
+|---------|--------------|
+| Zeqi Wang | zw100107@bu.edu |
+| Vineet Raju | vineetr@bu.edu |
+| Zhou Ye | yezhou@bu.edu |
 
 
 # Instructions for running the program
